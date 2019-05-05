@@ -32,7 +32,7 @@
 
 #define WIND_GAIN_ADJUSTMENT                0
 
-#define ALTITUDEHOLD_STABILIZED             AH_FULL
+#define ALTITUDEHOLD_STABILIZED             AH_NONE
 #define ALTITUDEHOLD_WAYPOINT               AH_FULL
 
 
