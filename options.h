@@ -1,3 +1,4 @@
+// one last test to make sure options no longer ask for a "login helper"
 //
 // added yet another line
 // This file is part of MatrixPilot.
